@@ -1,0 +1,73 @@
+body{
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+  h1{
+    color: turquoise;
+    font-size:24px;
+  }
+
+
+
+
+  h2{
+    color: turquoise;
+    font-size:18px;
+  }
+
+  .yellow{
+    position: absolute;
+    left: 200 px;
+    width: 200 px;
+    height:  200 px;
+    background-color: yellow;
+
+}
+
+  .red{
+    position: absolute;
+    left: 200 px;
+    width: 200 px;
+    height: 200 px;
+    background-color: red;
+  }
+
+  .blue{
+    position: absolute;
+    left: 200 px;
+    width: 200 px;
+    height: 200 px;
+    background-color: blue;
+    }
+
+
+
+  .green{
+    position: absolute;
+    left: 200 px;
+    width: 200 px;
+    height: 200 px;
+    background-color: green;
+  }
+
+  .pink{
+    position: absolute;
+    left: 200 px;
+    width: 200 px;
+    height: 200 px;
+    background-color: pink;
+    }
+
+    div {
+        width:120px;
+        height:300px;
+        border: 1px solid black;
+        float:left;
+        padding: 1px;
+        text-align:center;
+    }
+
+
+
+    .big{
+      font-size:25px;
+    }
